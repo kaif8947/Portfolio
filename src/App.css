@@ -1,0 +1,12 @@
+/* index.css */
+body {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+img {
+  transition: transform 0.3s;
+}
+
+img:hover {
+  transform: scale(1.05);
+}
